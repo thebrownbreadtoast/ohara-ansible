@@ -1,2 +1,2 @@
 # ohara-ansible
-Ansible for Ohara
+Ansible playbook for Ohara.
